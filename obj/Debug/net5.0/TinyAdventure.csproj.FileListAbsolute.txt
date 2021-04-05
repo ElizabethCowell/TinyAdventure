@@ -1,0 +1,16 @@
+C:\Users\eholy\repos\TinyAdventure\bin\Debug\net5.0\TinyAdventure.exe
+C:\Users\eholy\repos\TinyAdventure\bin\Debug\net5.0\TinyAdventure.deps.json
+C:\Users\eholy\repos\TinyAdventure\bin\Debug\net5.0\TinyAdventure.runtimeconfig.json
+C:\Users\eholy\repos\TinyAdventure\bin\Debug\net5.0\TinyAdventure.runtimeconfig.dev.json
+C:\Users\eholy\repos\TinyAdventure\bin\Debug\net5.0\TinyAdventure.dll
+C:\Users\eholy\repos\TinyAdventure\bin\Debug\net5.0\ref\TinyAdventure.dll
+C:\Users\eholy\repos\TinyAdventure\bin\Debug\net5.0\TinyAdventure.pdb
+C:\Users\eholy\repos\TinyAdventure\obj\Debug\net5.0\TinyAdventure.csprojAssemblyReference.cache
+C:\Users\eholy\repos\TinyAdventure\obj\Debug\net5.0\TinyAdventure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eholy\repos\TinyAdventure\obj\Debug\net5.0\TinyAdventure.AssemblyInfoInputs.cache
+C:\Users\eholy\repos\TinyAdventure\obj\Debug\net5.0\TinyAdventure.AssemblyInfo.cs
+C:\Users\eholy\repos\TinyAdventure\obj\Debug\net5.0\TinyAdventure.csproj.CoreCompileInputs.cache
+C:\Users\eholy\repos\TinyAdventure\obj\Debug\net5.0\TinyAdventure.dll
+C:\Users\eholy\repos\TinyAdventure\obj\Debug\net5.0\ref\TinyAdventure.dll
+C:\Users\eholy\repos\TinyAdventure\obj\Debug\net5.0\TinyAdventure.pdb
+C:\Users\eholy\repos\TinyAdventure\obj\Debug\net5.0\TinyAdventure.genruntimeconfig.cache
